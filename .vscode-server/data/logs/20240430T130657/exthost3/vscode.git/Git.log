@@ -1,0 +1,20 @@
+2024-04-30 13:11:52.404 [info] Log level: Info
+2024-04-30 13:11:52.404 [info] Validating found git in: "git"
+2024-04-30 13:11:52.404 [info] Using git "2.34.1" from "git"
+2024-04-30 13:11:52.404 [info] > git rev-parse --show-toplevel [11ms]
+2024-04-30 13:11:52.404 [info] > git rev-parse --git-dir --git-common-dir [20ms]
+2024-04-30 13:11:52.404 [info] Open repository: /home/ashlesha/AWS-PROJECT-
+2024-04-30 13:11:52.408 [info] > git config --get commit.template [8ms]
+2024-04-30 13:11:52.425 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-04-30 13:11:52.435 [warning] ENOENT: no such file or directory, open '/home/ashlesha/AWS-PROJECT-/.git/refs/remotes/origin/main'
+2024-04-30 13:11:52.437 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-04-30 13:11:52.462 [info] > git status -z -uall [18ms]
+2024-04-30 13:11:52.488 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2024-04-30 13:11:52.499 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [4ms]
+2024-04-30 13:11:52.507 [info] > git config --get commit.template [21ms]
+2024-04-30 13:11:52.510 [info] > git diff --name-status -z --diff-filter=ADMR a7b02bf548b731af4160f38962b06e0fddd235d3...refs/remotes/origin/main [4ms]
+2024-04-30 13:11:52.590 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [74ms]
+2024-04-30 13:11:52.594 [warning] ENOENT: no such file or directory, open '/home/ashlesha/AWS-PROJECT-/.git/refs/remotes/origin/main'
+2024-04-30 13:11:52.596 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-04-30 13:11:52.603 [info] > git status -z -uall [2ms]
+2024-04-30 13:11:52.945 [info] > git check-ignore -v -z --stdin [4ms]

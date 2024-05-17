@@ -1,0 +1,9 @@
+2024-04-30 19:02:01.776 [info] 
+
+
+
+
+2024-04-30 19:02:01.798 [info] Extension host agent started.
+2024-04-30 19:02:01.905 [info] [127.0.0.1][494e40c2][ManagementConnection] New connection established.
+2024-04-30 19:02:02.456 [info] [127.0.0.1][b88f423e][ExtensionHostConnection] New connection established.
+2024-04-30 19:02:02.496 [info] [127.0.0.1][b88f423e][ExtensionHostConnection] <476> Launched Extension Host Process.
