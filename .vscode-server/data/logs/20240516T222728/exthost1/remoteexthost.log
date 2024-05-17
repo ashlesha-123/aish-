@@ -1,0 +1,29 @@
+2024-05-16 22:27:31.284 [info] Extension host with pid 464 started
+2024-05-16 22:27:31.284 [error] Error: EEXIST: file already exists, open '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock'
+2024-05-16 22:27:31.293 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-05-16 22:27:31.320 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': The pid 544 appears to be gone.
+2024-05-16 22:27:31.320 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Deleting a stale lock.
+2024-05-16 22:27:31.332 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Lock acquired.
+2024-05-16 22:27:31.631 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2024-05-16 22:27:31.644 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-16 22:27:31.645 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-16 22:27:32.409 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2024-05-16 22:27:32.748 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-16 22:27:32.966 [info] Eager extensions activated
+2024-05-16 22:27:32.966 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-16 22:27:32.967 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-16 22:29:51.703 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-16 22:29:51.708 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-16 22:55:02.701 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-05-16 23:11:13.862 [info] Extension host terminating: received terminate message from renderer
+2024-05-16 23:11:13.863 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-16 23:11:14.126 [error] Canceled: Canceled
+	at new O (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
+	at c.U (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
+	at F.<computed>.z.charCodeAt.F.<computed> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
+	at r.g (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:155:188928)
+	at r.executeCommand (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:155:188366)
+	at E.registerCommand.description (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:155:187690)
+	at r.h (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:155:189467)
+	at r.g (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:155:188459)
+	at r.executeCommand (/home/ashlesha/.vscode-server

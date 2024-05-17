@@ -1,0 +1,31 @@
+2024-05-17 10:40:34.507 [info] Log level: Info
+2024-05-17 10:40:34.507 [info] Validating found git in: "git"
+2024-05-17 10:40:34.507 [info] Using git "2.34.1" from "git"
+2024-05-17 10:40:34.507 [info] > git rev-parse --show-toplevel [809ms]
+2024-05-17 10:40:34.507 [info] > git rev-parse --git-dir --git-common-dir [183ms]
+2024-05-17 10:40:34.507 [info] Open repository: /home/ashlesha/AWS-PROJECT-
+2024-05-17 10:40:34.558 [info] > git rev-parse --show-toplevel [92ms]
+2024-05-17 10:40:34.569 [info] > git config --get commit.template [109ms]
+2024-05-17 10:40:34.743 [info] > git rev-parse --git-dir --git-common-dir [138ms]
+2024-05-17 10:40:34.774 [info] Open repository: /home/ashlesha/AWS-PROJECT-/linux-
+2024-05-17 10:40:34.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cdec refs/remotes/cdec [146ms]
+2024-05-17 10:40:34.999 [info] > git config --get commit.template [143ms]
+2024-05-17 10:40:35.045 [info] > git status -z -uall [146ms]
+2024-05-17 10:40:35.058 [info] > git show --textconv :like.txt [83ms]
+2024-05-17 10:40:35.058 [info] > git ls-files --stage -- /home/ashlesha/AWS-PROJECT-/like.txt [61ms]
+2024-05-17 10:40:35.270 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [179ms]
+2024-05-17 10:40:35.277 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/ashlesha/AWS-PROJECT-/like.txt [234ms]
+2024-05-17 10:40:35.544 [info] > git check-ignore -v -z --stdin [44ms]
+2024-05-17 10:40:35.545 [info] > git check-ignore -v -z --stdin [37ms]
+2024-05-17 10:40:35.548 [info] > git config --get commit.template [326ms]
+2024-05-17 10:40:35.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [344ms]
+2024-05-17 10:40:35.548 [warning] No such branch: main.
+2024-05-17 10:40:35.572 [info] > git status -z -uall [9ms]
+2024-05-17 10:40:35.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cdec refs/remotes/cdec [24ms]
+2024-05-17 10:40:35.640 [info] > git rev-list --count c7a1ee4cd74812fcc80a4aaa50746c888d9f6202.. -- /home/ashlesha/AWS-PROJECT-/like.txt [27ms]
+2024-05-17 10:40:35.647 [info] > git config --get commit.template [43ms]
+2024-05-17 10:40:35.662 [info] > git status -z -uall [36ms]
+2024-05-17 10:40:35.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-05-17 10:40:35.668 [warning] No such branch: main.
+2024-05-17 10:40:35.675 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n2 --follow -- /home/ashlesha/AWS-PROJECT-/like.txt [29ms]
+2024-05-17 10:40:35.681 [info] > git status -z -uall [7ms]

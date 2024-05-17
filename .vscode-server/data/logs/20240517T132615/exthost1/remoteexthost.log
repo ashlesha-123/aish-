@@ -1,0 +1,131 @@
+2024-05-17 13:26:18.929 [info] Extension host with pid 518 started
+2024-05-17 13:26:19.038 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-17 13:26:19.106 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Lock acquired.
+2024-05-17 13:26:19.189 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-17 13:26:19.190 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-17 13:26:20.013 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-17 13:26:20.013 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-17 13:26:20.014 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-17 13:26:20.763 [info] Eager extensions activated
+2024-05-17 13:26:20.776 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-17 13:26:20.778 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:22.660 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:23.049 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3679
+2024-05-17 13:26:24.431 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.450 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.451 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.453 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.454 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.466 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.467 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.467 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.468 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.469 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 13:26:24.979 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3679
+2024-05-17 13:26:32.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3679
+2024-05-17 13:26:37.487 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3672
+2024-05-17 13:26:44.355 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3672
+2024-05-17 13:26:49.486 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3672
+2024-05-17 13:26:54.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3672
+2024-05-17 13:26:59.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3672

@@ -1,0 +1,36 @@
+2024-05-17 06:20:10.017 [info] Log level: Info
+2024-05-17 06:20:10.017 [info] Validating found git in: "git"
+2024-05-17 06:20:10.017 [info] Using git "2.34.1" from "git"
+2024-05-17 06:20:10.017 [info] > git rev-parse --show-toplevel [131ms]
+2024-05-17 06:20:10.084 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-05-17 06:20:10.143 [info] Open repository: /home/ashlesha/AWS-PROJECT-
+2024-05-17 06:20:10.223 [info] > git config --get commit.template [28ms]
+2024-05-17 06:20:10.242 [info] > git rev-parse --show-toplevel [28ms]
+2024-05-17 06:20:10.272 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-05-17 06:20:10.281 [info] Open repository: /home/ashlesha/AWS-PROJECT-/linux-
+2024-05-17 06:20:10.316 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cdec refs/remotes/cdec [77ms]
+2024-05-17 06:20:10.341 [info] > git show --textconv HEAD:devops [40ms]
+2024-05-17 06:20:10.342 [info] > git status -z -uall [15ms]
+2024-05-17 06:20:10.343 [info] > git ls-tree -l HEAD -- /home/ashlesha/AWS-PROJECT-/devops [26ms]
+2024-05-17 06:20:10.367 [info] > git config --get commit.template [27ms]
+2024-05-17 06:20:10.436 [info] > git ls-tree -l HEAD -- /home/ashlesha/AWS-PROJECT-/devops [28ms]
+2024-05-17 06:20:10.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-05-17 06:20:10.440 [warning] No such branch: main.
+2024-05-17 06:20:10.452 [info] > git config --get commit.template [54ms]
+2024-05-17 06:20:10.473 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/ashlesha/AWS-PROJECT-/devops [41ms]
+2024-05-17 06:20:10.941 [info] > git status -z -uall [490ms]
+2024-05-17 06:20:10.941 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/cdec refs/remotes/cdec [472ms]
+2024-05-17 06:20:11.057 [info] > git status -z -uall [105ms]
+2024-05-17 06:20:11.057 [info] > git check-ignore -v -z --stdin [56ms]
+2024-05-17 06:20:11.058 [info] > git check-ignore -v -z --stdin [48ms]
+2024-05-17 06:20:11.103 [info] > git config --get commit.template [47ms]
+2024-05-17 06:20:11.103 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n239 --follow -- /home/ashlesha/AWS-PROJECT-/devops [55ms]
+2024-05-17 06:20:11.123 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-05-17 06:20:11.123 [warning] No such branch: main.
+2024-05-17 06:20:11.140 [info] > git status -z -uall [7ms]
+2024-05-17 06:20:47.960 [info] > git ls-tree -l HEAD -- /home/ashlesha/AWS-PROJECT-/devops [2ms]
+2024-05-17 06:26:05.538 [info] > git ls-tree -l HEAD -- /home/ashlesha/AWS-PROJECT-/devops [2ms]
+2024-05-17 06:26:50.307 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 --follow -- /home/ashlesha/AWS-PROJECT-/README.md [383ms]
+2024-05-17 06:26:50.693 [info] > git show --textconv :README.md [37ms]
+2024-05-17 06:26:50.697 [info] > git ls-files --stage -- /home/ashlesha/AWS-PROJECT-/README.md [26ms]
+2024-05-17 06:26:50.755 [info] > git cat-file -s 78d5c4552ece7ce2efcae5d809a09120b414bf0f [24ms]

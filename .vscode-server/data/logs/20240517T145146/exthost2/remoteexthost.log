@@ -1,0 +1,967 @@
+2024-05-17 14:52:04.982 [info] Extension host with pid 575 started
+2024-05-17 14:52:05.163 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-17 14:52:05.335 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Lock acquired.
+2024-05-17 14:52:05.550 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-17 14:52:05.643 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-17 14:52:05.644 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-17 14:52:06.286 [info] Eager extensions activated
+2024-05-17 14:52:06.287 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-17 14:52:06.289 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:07.391 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:08.332 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:09.209 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.214 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.215 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.216 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.217 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.218 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.219 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.220 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.220 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.221 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.221 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.222 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.222 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.222 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.223 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.223 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.227 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.228 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.229 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.229 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.230 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.230 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.231 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.231 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.231 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:09.361 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.382 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.383 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.384 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.384 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.384 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.385 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.386 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.386 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.386 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.387 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.388 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.389 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.389 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.390 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.390 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:10.390 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions/git/dist/main.js:2:1022477)
+	at ChildProcess.emit (node:events:529:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+2024-05-17 14:52:11.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:16.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:21.839 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:27.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:32.141 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:37.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:42.498 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:47.671 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:52.847 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:52:58.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:03.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:08.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:13.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:18.666 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:23.818 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:28.980 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:34.150 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:39.313 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:44.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:49.636 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:54.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:53:59.976 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:54:05.093 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:54:10.267 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:54:15.423 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:54:20.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:25.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:30.882 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:36.052 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:41.208 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:46.370 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:51.580 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:54:56.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:55:01.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3681
+2024-05-17 14:55:06.091 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-05-17 14:55:07.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:08.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:12.191 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:17.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:22.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:27.735 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:32.887 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3682
+2024-05-17 14:55:38.069 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 14:55:43.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 14:55:48.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 14:55:53.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 14:57:57.253 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 14:58:01.568 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-17 14:58:02.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:07.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:08.373 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:12.788 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:17.943 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:23.108 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:28.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:33.450 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:38.574 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:43.736 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:48.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:54.048 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:58:59.228 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:04.405 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:09.563 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:14.737 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:19.898 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:25.073 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:30.260 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:35.451 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:40.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:45.746 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:50.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 14:59:56.092 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:01.253 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:06.443 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:11.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:16.791 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:21.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:27.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:32.322 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:37.486 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:42.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:47.800 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:52.944 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:00:58.100 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:03.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:08.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:09.230 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:13.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:18.723 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:23.883 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:28.998 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:34.176 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:39.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:44.560 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:49.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:01:54.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:00.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:05.220 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:10.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:15.561 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:20.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:25.898 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:31.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:36.223 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:41.368 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:46.515 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:51.633 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:02:56.821 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:01.999 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:07.162 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:12.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:17.511 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:22.673 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:27.842 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:32.984 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:38.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:43.385 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:48.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:53.678 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:03:58.824 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:04.008 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:09.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:10.045 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:14.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:19.514 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:24.675 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:29.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:34.960 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:40.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:45.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:50.405 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:04:55.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:00.771 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:05.907 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:11.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:16.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:21.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:26.558 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:31.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:36.884 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:42.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:48.029 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:53.544 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:05:58.932 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:04.248 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:09.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:14.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:20.129 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:25.355 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:30.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:36.093 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:41.443 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:46.900 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:06:52.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3683
+2024-05-17 15:06:57.465 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:02.759 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:08.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:10.265 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:13.482 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:18.732 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:23.893 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:29.152 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:34.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:39.624 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:44.894 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:50.132 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:07:55.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:00.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:05.912 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:11.238 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:16.500 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:21.823 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:27.127 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3684
+2024-05-17 15:08:32.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3687
+2024-05-17 15:08:37.640 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3687
+2024-05-17 15:08:42.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3687
+2024-05-17 15:08:48.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3687
+2024-05-17 15:08:53.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3687
+2024-05-17 15:08:58.691 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:04.008 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:09.294 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:14.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:19.815 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:25.085 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:30.304 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:35.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:40.803 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:46.076 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:51.411 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:09:56.633 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:01.888 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:07.106 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:10.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:12.431 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:17.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:22.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:28.162 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:33.387 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:38.708 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:44.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:49.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:54.542 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:10:59.790 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:11:05.070 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:11:10.336 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3688
+2024-05-17 15:11:15.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:20.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:25.784 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:30.956 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:36.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:41.282 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:46.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:11:51.653 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:12:48.140 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:12:53.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:12:58.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:03.539 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:08.715 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:10.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:13.854 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:19.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:24.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:29.352 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:34.537 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:39.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:44.846 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:50.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:13:55.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:00.307 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:05.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:10.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:15.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:20.968 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:26.136 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:31.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:36.421 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:41.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:46.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:51.875 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:14:57.036 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:02.205 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:07.376 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:12.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:17.686 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:22.849 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:28.010 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:33.184 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:38.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:43.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3689
+2024-05-17 15:15:48.648 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:15:53.809 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:15:58.973 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:04.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:09.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:10.945 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:14.506 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:19.678 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:24.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:29.976 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:35.106 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:40.285 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:45.470 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:50.640 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:16:55.769 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:00.958 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:06.143 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:11.292 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:16.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:21.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:26.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:31.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:37.131 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:42.330 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:47.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:52.675 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:17:57.850 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:03.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:08.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:13.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:18.505 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:23.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:28.831 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:33.984 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:39.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:44.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:49.479 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:54.637 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:18:59.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:05.006 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:10.162 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:11.078 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:15.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:20.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:25.617 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:30.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:35.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:41.110 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:46.312 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:51.440 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:19:56.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:01.710 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:06.920 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:12.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:17.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:22.401 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:27.572 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:32.738 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:37.924 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:43.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:48.232 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:53.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:20:58.545 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:03.681 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:08.840 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:13.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:19.149 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:24.301 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:29.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:34.600 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:39.778 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:45.005 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:50.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:21:55.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:00.489 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:05.668 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:10.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:11.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:15.955 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:21.112 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:26.273 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:31.443 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:36.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3690
+2024-05-17 15:22:41.749 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:22:46.885 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:22:52.124 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:22:57.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:02.439 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:07.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:12.787 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:17.952 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:23.110 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:28.274 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:33.432 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:38.591 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:43.730 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:48.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:54.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:23:59.220 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:04.388 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:09.545 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:14.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:19.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:25.052 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:30.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:35.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:40.586 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:45.731 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:50.873 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:24:56.074 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:01.225 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:06.371 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:11.541 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:12.270 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:16.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:21.872 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:27.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:32.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:37.343 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:42.485 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:47.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:52.846 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:25:58.017 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:03.202 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:08.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:13.535 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:18.671 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:23.835 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3691
+2024-05-17 15:26:28.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:26:34.134 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:26:39.308 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:26:44.485 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:26:49.625 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:26:54.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:06.179 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:11.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:16.464 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:21.648 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:26.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:31.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:37.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:42.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:47.439 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:52.584 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:27:57.739 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:02.904 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:08.039 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:15.142 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:20.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:25.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:30.474 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:35.651 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:40.789 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3692
+2024-05-17 15:28:45.942 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:28:51.110 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:28:56.279 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:01.444 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:06.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:11.772 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:16.910 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:22.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:27.285 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:32.454 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:37.605 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:42.774 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:47.920 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:53.101 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:29:58.253 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:03.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:08.601 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:13.755 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:18.906 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:24.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:29.472 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:34.629 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:39.810 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:44.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:50.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:30:55.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:00.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:05.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:10.847 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:15.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:16.056 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:21.224 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:26.407 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:31.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:36.715 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:41.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:47.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:52.197 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:31:57.348 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:02.521 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:07.701 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:12.869 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:18.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:23.198 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:28.374 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:33.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:38.720 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:43.896 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:49.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:32:54.263 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:33:33.697 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:33:38.864 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:33:44.012 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:33:49.164 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:33:54.310 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:34:46.252 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:35:51.612 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:17.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:22.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:28.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:37.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:42.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:36:47.808 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:37:04.425 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:37:06.982 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3693
+2024-05-17 15:37:08.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2024-05-17 15:37:09.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2024-05-17 15:37:14.771 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2024-05-17 15:37:19.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2024-05-17 15:37:25.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
+2024-05-17 15:37:30.221 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3680
