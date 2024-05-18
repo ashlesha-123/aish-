@@ -1,22 +1,19 @@
-2024-05-17 06:20:08.262 [info] Extension host with pid 500 started
-2024-05-17 06:20:08.366 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
-2024-05-17 06:20:08.368 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-05-17 06:20:08.455 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Lock acquired.
-2024-05-17 06:20:08.541 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
-2024-05-17 06:20:08.835 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
-2024-05-17 06:20:09.446 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-05-17 06:20:09.744 [info] Eager extensions activated
-2024-05-17 06:20:09.744 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-05-17 06:20:09.745 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-05-17 06:20:54.280 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-05-17 06:20:54.280 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
-2024-05-17 06:26:49.914 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
-2024-05-17 06:26:49.915 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
-2024-05-17 06:26:51.172 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
-2024-05-17 06:27:13.291 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
-2024-05-17 06:28:51.168 [info] Extension host terminating: received terminate message from renderer
-2024-05-17 06:28:51.169 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/10247dd1c4087c01046cb75cb25ad398/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
-2024-05-17 06:28:51.377 [error] Canceled: Canceled
+2024-05-18 14:43:37.593 [info] Extension host with pid 509 started
+2024-05-18 14:43:37.593 [error] Error: EEXIST: file already exists, open '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock'
+2024-05-18 14:43:37.612 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-05-18 14:43:37.635 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-18 14:43:37.709 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': The pid 29248 appears to be gone.
+2024-05-18 14:43:37.709 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Deleting a stale lock.
+2024-05-18 14:43:37.747 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Lock acquired.
+2024-05-18 14:43:37.829 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-18 14:43:37.852 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-18 14:43:37.853 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-18 14:43:38.830 [info] Eager extensions activated
+2024-05-18 14:43:38.830 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 14:43:38.831 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-18 14:49:21.033 [info] Extension host terminating: received terminate message from renderer
+2024-05-18 14:49:21.034 [info] Lock '/home/ashlesha/.vscode-server/data/User/workspaceStorage/0443b8fa1cc189fb05220177226c70bf/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-18 14:49:21.173 [error] Canceled: Canceled
 	at new O (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -69,7 +66,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-17 06:28:51.377 [error] Canceled: Canceled
+2024-05-18 14:49:21.173 [error] Canceled: Canceled
 	at new O (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -122,7 +119,7 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-17 06:28:51.380 [error] Canceled: Canceled
+2024-05-18 14:49:21.174 [error] Canceled: Canceled
 	at new O (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:145:47131)
 	at c.U (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:5542)
 	at F.<computed>.z.charCodeAt.F.<computed> (/home/ashlesha/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/out/vs/workbench/api/node/extensionHostProcess.js:152:2993)
@@ -177,4 +174,4 @@
 	at readableAddChunk (node:internal/streams/readable:308:9)
 	at Readable.push (node:internal/streams/readable:245:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-05-17 06:28:51.443 [info] Extension host with pid 500 exiting with code 0
+2024-05-18 14:49:21.175 [info] Extension host with pid 509 exiting with code 0

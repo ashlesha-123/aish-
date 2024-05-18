@@ -492,3 +492,86 @@ git push origin master
 git push ori
 git --version
 clear
+rm -rf tajin
+ls
+rm -rf devops
+ls
+rm -rf devopss
+ls
+rm -rf first project 
+ls
+rm -rf linux
+ls
+clear 
+git init
+cd my folder
+git add html
+cd my folder 
+ls
+cd 'my folder'
+ls
+pwd
+cd /my folder
+cd myfolder
+cd my folder
+clear
+ls
+cd first project
+cd AWS-PPROJECT
+ls
+cd /
+ls
+cd  /home/ashlesha
+ls
+cd /my folder
+cd / my folder
+rm-rf my folder
+rmdir my folder
+ls
+clear
+ls
+cat aishu
+clear
+cd aws-project
+clear
+ls
+cd aws
+ls
+cat aishu
+git init 
+git add aishu
+git status 
+git commit -m "first"
+git status 
+git branch 
+git branch main 
+git checkout main 
+git init 
+git add aishu 
+git commit -m "second"
+git merge cdec 
+git 
+git status 
+git add .
+git add aishu 
+git status 
+git commit -m "new changes"
+git branch
+git checkout cdec
+ls
+cat aishu
+git init 
+git add 
+git status 
+git add aishu
+git status 
+git commit  -m "good morinig"
+git checkout main 
+cat aishu 
+git merge cdec 
+git add aishu 
+git status
+git commit -m"firstone"
+git checkout main 
+git push main 
+git status 

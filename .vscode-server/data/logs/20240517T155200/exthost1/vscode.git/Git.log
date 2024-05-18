@@ -1,0 +1,74 @@
+2024-05-17 15:52:05.691 [info] Log level: Info
+2024-05-17 15:52:05.691 [info] Validating found git in: "git"
+2024-05-17 15:52:05.691 [info] Using git "2.34.1" from "git"
+2024-05-17 15:52:05.691 [info] > git rev-parse --show-toplevel [86ms]
+2024-05-17 15:52:05.691 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-05-17 15:52:05.691 [info] Open repository: /home/ashlesha
+2024-05-17 15:52:05.731 [info] > git config --get commit.template [27ms]
+2024-05-17 15:52:05.735 [info] > git rev-parse --show-toplevel [16ms]
+2024-05-17 15:52:05.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [59ms]
+2024-05-17 15:52:05.818 [info] > git rev-parse --show-toplevel [60ms]
+2024-05-17 15:52:05.843 [info] > git status -z -uall [29ms]
+2024-05-17 15:52:05.893 [info] > git rev-parse --show-toplevel [55ms]
+2024-05-17 15:52:05.906 [info] > git config --get commit.template [11ms]
+2024-05-17 15:52:06.029 [info] > git rev-parse --show-toplevel [108ms]
+2024-05-17 15:52:06.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [163ms]
+2024-05-17 15:52:06.118 [info] > git rev-parse --git-dir --git-common-dir [36ms]
+2024-05-17 15:52:06.126 [info] Open repository: /home/ashlesha/aws
+2024-05-17 15:52:06.169 [info] > git status -z -uall [57ms]
+2024-05-17 15:52:06.171 [info] > git config --get commit.template [28ms]
+2024-05-17 15:52:06.201 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-05-17 15:52:06.217 [warning] ENOENT: no such file or directory, open '/home/ashlesha/aws/.git/refs/remotes/origin/main'
+2024-05-17 15:52:06.220 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-05-17 15:52:06.234 [info] > git status -z -uall [4ms]
+2024-05-17 15:52:06.272 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2024-05-17 15:52:06.294 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [11ms]
+2024-05-17 15:52:06.306 [info] > git config --get commit.template [36ms]
+2024-05-17 15:52:06.318 [info] > git diff --name-status -z --diff-filter=ADMR a7b02bf548b731af4160f38962b06e0fddd235d3...refs/remotes/origin/main [13ms]
+2024-05-17 15:52:06.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-05-17 15:52:06.334 [warning] ENOENT: no such file or directory, open '/home/ashlesha/aws/.git/refs/remotes/origin/main'
+2024-05-17 15:52:06.336 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-17 15:52:06.348 [info] > git status -z -uall [3ms]
+2024-05-17 15:52:07.642 [info] > git fetch [13ms]
+2024-05-17 15:52:07.698 [info] > git config --get commit.template [37ms]
+2024-05-17 15:52:07.723 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-17 15:52:07.751 [info] > git status -z -uall [17ms]
+2024-05-17 15:52:07.772 [info] > git config --get commit.template [2ms]
+2024-05-17 15:52:07.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-17 15:52:07.802 [info] > git status -z -uall [13ms]
+2024-05-17 15:52:08.435 [info] > git fetch [794ms]
+2024-05-17 15:52:08.435 [info] Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/ashlesha-123/AWS-PROJECT-.git/'
+2024-05-17 15:52:08.454 [info] > git config --get commit.template [2ms]
+2024-05-17 15:52:08.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-17 15:52:08.483 [warning] ENOENT: no such file or directory, open '/home/ashlesha/aws/.git/refs/remotes/origin/main'
+2024-05-17 15:52:08.484 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-05-17 15:52:08.493 [info] > git status -z -uall [1ms]
+2024-05-17 15:52:38.493 [info] > git config --get commit.template [2ms]
+2024-05-17 15:52:38.504 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-17 15:52:38.527 [info] > git status -z -uall [13ms]
+2024-05-17 15:52:43.567 [info] > git config --get commit.template [16ms]
+2024-05-17 15:52:43.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-17 15:52:43.594 [info] > git status -z -uall [16ms]
+2024-05-17 15:52:48.625 [info] > git config --get commit.template [5ms]
+2024-05-17 15:52:48.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-17 15:52:48.665 [info] > git status -z -uall [13ms]
+2024-05-17 15:52:53.731 [info] > git config --get commit.template [27ms]
+2024-05-17 15:52:53.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-05-17 15:52:53.758 [info] > git status -z -uall [13ms]
+2024-05-17 15:52:58.811 [info] > git config --get commit.template [15ms]
+2024-05-17 15:52:58.813 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-17 15:52:58.835 [info] > git status -z -uall [16ms]
+2024-05-17 15:53:03.895 [info] > git config --get commit.template [45ms]
+2024-05-17 15:53:03.896 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-17 15:53:03.931 [info] > git status -z -uall [21ms]
+2024-05-17 15:53:08.952 [info] > git config --get commit.template [4ms]
+2024-05-17 15:53:08.961 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-17 15:53:08.979 [info] > git status -z -uall [12ms]
+2024-05-17 15:53:14.021 [info] > git config --get commit.template [27ms]
+2024-05-17 15:53:14.023 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-05-17 15:53:14.052 [info] > git status -z -uall [18ms]
